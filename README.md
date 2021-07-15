@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/rodrigo-marcolino-92125864/)[Instagram](https://www.instagram.com/rodrigomarcolinodeoliveira/)[Blog][https://rodrigo-marcolino.github.io/]
+
 <!--
 **rodrigo-marcolino/rodrigo-marcolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
