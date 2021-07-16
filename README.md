@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rodrigo Marcolino</h1>
-<h3 align="left">A passionate Web developer from New Zeeland</h3>
+<h3 align="left">I have been in the IT industry for more than 15 years. I built up my career to become a System/Network administrator. However,  in 2020 I have begun my journey to become a Software Developer. I finished my ICT course Level 7 in January 2021, and now I am studying at Dev Academy bootcamp which I will complete in October of 2021, and I am looking forward to an opportunity to develop my knowledge working as a Junior Software Developer.</h3>
 
 - 🌱 I’m currently learning **React and Node.js**
 
