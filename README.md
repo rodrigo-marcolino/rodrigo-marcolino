@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React and Node.js**
 
 - 📫 How to reach me **rodrigomarcolino@gmail.com**
+- 📝 I regularly write articles on [https://rodrigo-marcolino.github.io/](https://rodrigo-marcolino.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
