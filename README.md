@@ -1,7 +1,12 @@
 <h1 align="left">I'm Rodrigo Marcolino</h1>
 <h4 align="left">
-  I have been in the IT industry for a while. I built up my career to become a System/Network administrator. However, in 2020 I have begun my journey to become a Software Developer. I finished my ICT course Level 7 in January 2021 and A Bootcamp at Enspiral Dev Academy.
+  I have been in the IT industry for a while. I built up my career to become a System/Network administrator.
+  <h4 align="left">
+    However, in 2020 I have begun my journey to become a Software Developer. I finished my ICT course Level 7 in January 2021 and A Bootcamp at Enspiral Dev Academy.
+  </h4>
+  <h4 align="left">
 I am looking forward to an opportunity to develop my knowledge working as a Junior Software Developer.
+  </h4>
 </h4>
 
 - 🌱 I’m currently learning **React and Node.js**
