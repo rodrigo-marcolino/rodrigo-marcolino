@@ -9,7 +9,7 @@ I am looking forward to an opportunity to develop my knowledge working as a Juni
   </h4>
 </h4>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **PowerShell**
 
 - 📫 How to reach me **rodrigomarcolino@gmail.com**
 - 📝 I regularly write articles on [https://rodrigo-marcolino.github.io/](https://rodrigo-marcolino.github.io/)
