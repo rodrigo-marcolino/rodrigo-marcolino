@@ -5,7 +5,7 @@
     However, in 2020 I have begun my journey to become a Software Developer. I finished my ICT course Level 7 in January 2021 and A Bootcamp at Enspiral Dev Academy  in December 2021.
   </h4>
   <h4 align="left">
-I am looking forward to an opportunity to develop my knowledge working as a Junior Software Developer or and as a DevOps.
+I am looking forward to an opportunity to develop my knowledge by working as a Junior Software Developer or DevOps engineer, or in any role that involves automation.
   </h4>
 </h4>
 
