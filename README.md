@@ -9,7 +9,7 @@ I am looking forward to an opportunity to develop my knowledge by working as a J
   </h4>
 </h4>
 
-- 🌱 I’m currently learning **PowerShell**
+- 🌱 I’m currently learning **PowerShell** and **TypeScript**
 
 - 📫 How to reach me **rodrigomarcolino@gmail.com**
 - 📝 I regularly write articles on [https://rodrigo-marcolino.github.io/](https://rodrigo-marcolino.github.io/)
